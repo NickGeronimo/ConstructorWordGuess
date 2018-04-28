@@ -1,0 +1,1 @@
+exports.wordBank = ['apple', 'banana', 'carrot', 'danish', 'eclair', 'french fry', 'green beans']
